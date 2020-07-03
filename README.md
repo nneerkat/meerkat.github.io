@@ -1,1 +1,1 @@
-# meerkat.gitjub.io
+# meerkat.github.io
